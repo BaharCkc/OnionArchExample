@@ -1,0 +1,15 @@
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\bin\Debug\net6.0\OnionArchExample.Application.deps.json
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\bin\Debug\net6.0\OnionArchExample.Application.dll
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\bin\Debug\net6.0\OnionArchExample.Application.pdb
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\bin\Debug\net6.0\OnionArchExample.Domain.dll
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\bin\Debug\net6.0\OnionArchExample.Domain.pdb
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\OnionArchExample.Application.csproj.AssemblyReference.cache
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\OnionArchExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\OnionArchExample.Application.AssemblyInfoInputs.cache
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\OnionArchExample.Application.AssemblyInfo.cs
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\OnionArchExample.Application.csproj.CoreCompileInputs.cache
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\OnionArchExample.Application.csproj.CopyComplete
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\OnionArchExample.Application.dll
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\refint\OnionArchExample.Application.dll
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\OnionArchExample.Application.pdb
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Application\obj\Debug\net6.0\ref\OnionArchExample.Application.dll

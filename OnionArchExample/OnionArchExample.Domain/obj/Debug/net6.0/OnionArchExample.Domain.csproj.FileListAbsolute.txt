@@ -1,0 +1,12 @@
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\bin\Debug\net6.0\OnionArchExample.Domain.deps.json
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\bin\Debug\net6.0\OnionArchExample.Domain.dll
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\bin\Debug\net6.0\OnionArchExample.Domain.pdb
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\obj\Debug\net6.0\OnionArchExample.Domain.csproj.AssemblyReference.cache
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\obj\Debug\net6.0\OnionArchExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\obj\Debug\net6.0\OnionArchExample.Domain.AssemblyInfoInputs.cache
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\obj\Debug\net6.0\OnionArchExample.Domain.AssemblyInfo.cs
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\obj\Debug\net6.0\OnionArchExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\obj\Debug\net6.0\OnionArchExample.Domain.dll
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\obj\Debug\net6.0\refint\OnionArchExample.Domain.dll
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\obj\Debug\net6.0\OnionArchExample.Domain.pdb
+C:\Users\bahar.cakici\source\repos\OnionArchExample\OnionArchExample.Domain\obj\Debug\net6.0\ref\OnionArchExample.Domain.dll
